@@ -1,4 +1,5 @@
 # Reverse letters in words
+# In this variation, keep the order of the words the same, but reverse the letters within each word.
 words = "I am iron man"
 def reverse_method(words):
     reverse_word = words.split()
